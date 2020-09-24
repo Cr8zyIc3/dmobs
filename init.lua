@@ -52,29 +52,29 @@ end
 
 local mobslist = {
 	-- friendlies
-	"pig",
+	--"pig",
 	"panda",
 	"tortoise",
-	"golem_friendly",
-	"nyan",
-	"gnorm",
+	--"golem_friendly",
+	--"nyan",
+	--"gnorm",
 	"hedgehog",
-	"owl",
-	"whale",
+	--"owl",
+	--"whale",
 	"badger",
-	"butterfly",
+	--"butterfly",
 	"elephant",
 
 	-- baddies
-	"pig_evil",
-	"fox",
-	"rat",
-	"wasps",
-	"treeman",
-	"golem",
-	"skeleton",
-	"orc",
-	"ogre",
+	--"pig_evil",
+	--"fox",
+	--"rat",
+	--"wasps",
+	--"treeman",
+	--"golem",
+	--"skeleton",
+	--"orc",
+	--"ogre",
 }
 
 if dmobs.regulars then
