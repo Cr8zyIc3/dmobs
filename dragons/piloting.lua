@@ -29,7 +29,7 @@ dmobs.dragon.ride = function(self, clicker)
 			
 		elseif not self.driver then
 			if clicker:get_wielded_item():get_name() == "mobs:saddle" then
-				object_attach(self, clicker, {x=0, y=12, z=4}, {x=0, y=0, z=4})
+				object_attach(self, clicker, {x=0, y=3, z=4}, {x=0, y=0, z=4})
 				inv:remove_item("main", "mobs:saddle")
 			end
 		end
